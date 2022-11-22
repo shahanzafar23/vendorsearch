@@ -1,0 +1,467 @@
+Logging in to vendor APAir
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1e9205d4
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @2c6969d2
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 8008 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7b399f4f
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xdb2bf8dcd3fd85ca
+Searching the item 205-390 from vendor APAir
+Searching the item 84657C1 from vendor APAir
+Searching the item AR55394 from vendor APAir
+Searching the item SE501456 from vendor APAir
+Searching the item AL207876 from vendor APAir
+Error in searching getting products
+Expected condition failed: waiting for presence of element located by: By.xpath: //div[@id='mainContent_prodList_UpdatePanel1']//* (tried for 20 second(s) with 500 milliseconds interval)
+Logging in to vendor APAir
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@38439046
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @3835c46
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 12728 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6ff20fe2
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x406feb472aa5401a
+Searching the item AL207876 from vendor APAir
+Logging in to vendor APAir
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5d99709b
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @3835c46
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 6244 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@f85b064
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x079ec3b1e993dd22
+Searching the item AL207876 from vendor APAir
+Searching the item AL207876 from vendor APAir
+Logging in to vendor SpareX
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@66ec793b
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4e4cd534
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 24484 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5e957ab0
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xf2c857a0895d12c7
+Searching the item 531505M91 from vendor SpareX
+Error in searching getting products
+no such element: Unable to locate element: {"method":"css selector","selector":".inst"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'SHAHAN-UWORX', ip: '172.18.13.65', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a6b54c511e298a41853afe794b1e0c4f, findChildElement {id=0478bae3-c900-4df7-a0b3-59ef739488cd, using=class name, value=inst}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\shahan\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64309}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64309/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a6b54c511e298a41853afe794b1e0c4f
+Logging in to vendor SpareX
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2ab8f96d
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @1b1239ca
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 23056 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@15da6805
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x53ce93617c2771d1
+Searching the item 531505M91 from vendor SpareX
+Logging in to vendor AiProducts
+Searching the item D9NN9601AA from vendor AiProducts
+Error in searching getting products
+Expected condition failed: waiting for presence of element located by: By.xpath: (//span[contains(@class,'partMessage')])[1]//img (tried for 20 second(s) with 500 milliseconds interval)
+Logging in to vendor AiProducts
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@49168b33
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @1bb03ef5
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 1920 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@45dc6797
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xa1a2a7bec6c3117d
+Searching the item D9NN9601AA from vendor AiProducts
+Error in searching getting products
+no such element: Unable to locate element: {"method":"xpath","selector":"((//tr[@class='RowSpacing'])[4]//td)[3]"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'SHAHAN-UWORX', ip: '172.18.13.65', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [89aa8d5bcbc96d85515efc01e26de05d, findElement {using=xpath, value=((//tr[@class='RowSpacing'])[4]//td)[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\shahan\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65470}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65470/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 89aa8d5bcbc96d85515efc01e26de05d
+Searching the item D9NN9601AA from vendor AiProducts
+Searching the item D9NN9601AA from vendor AiProducts
+Logging in to vendor AiProducts
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: simple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4ed879d7
+-Dio.netty.noUnsafe: false
+Java version: 11
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @23fa1f75
+java.nio.DirectByteBuffer.<init>(long, int): unavailable
+sun.misc.Unsafe: available
+maxDirectMemory: 4267704320 bytes (maybe)
+-Dio.netty.tmpdir: C:\Users\shahan\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: -1 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 9
+-Dio.netty.allocator.chunkSize: 4194304
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: false
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 19652 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7c57dc07
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.chunkSize: 32
+-Dio.netty.recycler.blocking: false
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xc10d0b0bcf62cb45
+Searching the item D9NN9601AA from vendor AiProducts
